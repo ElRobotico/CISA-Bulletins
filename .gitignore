@@ -1,0 +1,13 @@
+#virtualenv
+/venv
+#build
+/build
+/virtualenv
+
+.pyc
+*.pyo
+.cpython
+__pycache__/
+/test/.pytest_cache
+.vscode
+*.csv
